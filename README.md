@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avnish Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & RAG Enthusiast | Open Source Learner</h3>
+<h3 align="center">🚀 DSA | AI & RAG Enthusiast | Full Stackr</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Avnish1909&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,49 +12,23 @@
 </p>
 
 ---
-
 # 💫 About Me
 
-🔭 Currently working on:
-- Resume Dashboard Website
-- ExamNotesAI
-- AI based Resume Screening System
-
-🌱 Currently learning:
-- Dynamic Programming
-- RAG Architecture
-- Django + PostgreSQL
-- Machine Learning
-
-💡 Interests:
-- AI/ML
-- Full Stack Development
-- System Design
-- Competitive Programming
+- 💻 DSA Enthusiast with strong problem-solving skills
+- 🏆 Solved 1000+ Problems across coding platforms
+- 📈 Ranked among the Top 12% Competitive Programmers
+- 🤖 AI & Machine Learning Enthusiast
+- 🌐 Full Stack Development Enthusiast
 
 ⚡ Fun Fact:
-> I love building projects that solve real-world problems.
+> I enjoy turning complex problems into efficient real-world solutions.
 
 📫 Reach me at:
-**your-email@gmail.com**
+**avnish1909@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>
-</p>
 
 ---
 
@@ -62,7 +36,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,react,nodejs,express,django,mongodb,mysql,postgresql,git,github,linux,vscode,docker,tailwind" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,tailwind" />
 
 </p>
 
@@ -70,14 +44,13 @@
 
 # 🚀 Featured Projects
 
-### 📌 ExamNotesAI
-AI-powered notes & PDF assistant using RAG architecture.
+### 📌PrepFusion AI
+Multimodal RAG pipeline for context based study and Real time coding platform with judging system
 
-### 📌 Resume Dashboard
-Personalized dashboard generator from uploaded resumes.
+### 📌 Proffconnect
+A platform fir students of NIT KKR to schedule a meeting with proffessors having user professor and admin section to manage it
 
-### 📌 AI Resume Screening System
-Smart recruiter-side resume sorting based on skills.
+
 
 ---
 
