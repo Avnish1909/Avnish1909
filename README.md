@@ -36,7 +36,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,tailwind" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,docker,tailwind" />
 
 </p>
 
@@ -88,13 +88,7 @@ A platform fir students of NIT KKR to schedule a meeting with proffessors having
 
 ---
 
-# ✨ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
