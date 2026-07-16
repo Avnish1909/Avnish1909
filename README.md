@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avnish Singh</h1>
-<h3 align="center">🚀 DSA | AI & RAG Enthusiast | Full Stackr</h3>
+<h3 align="center">🚀 DSA | Competitive Programming| Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Avnish1909&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
